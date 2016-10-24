@@ -1,13 +1,8 @@
-Bash学习笔记
-===========
+# Bash学习笔记
 
-> 注: 如果你看到的是github的源代码, 请点击 [这里](http://skyao.github.io/leaning-bash/) 查看html内容.
+这是一份 Bash 学习笔记, 记录 Bash 的学习过程和日常使用.
 
-# 介绍
+笔记发布于 gitbook，请点击下面的链接阅读:
 
-Bash学习笔记
+https://skyao.gitbooks.io/leaning-bash/
 
-# 章节内容
-
-* [介绍](introduction/index.md)
-    * [资料收集整理](introduction/information.md)
